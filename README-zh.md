@@ -2,7 +2,8 @@
 
 > 这是一个极简的 vue admin 管理后台。它只包含了 Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
 
-## [微信小程序云开发-wechatmusic地址](https://github.com/flingyp/wechatmusic)
++ [微信小程序云开发-wechatmusic地址](https://github.com/flingyp/wechatmusic)
++ [webchat-music-koa](https://github.com/flingyp/webchat-music-koa)
 
 [线上地址](http://panjiachen.github.io/vue-admin-template)
 

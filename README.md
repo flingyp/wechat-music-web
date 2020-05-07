@@ -1,6 +1,7 @@
 # vue-admin-template
 
-[微信小程序云开发-wechatmusic地址](https://github.com/flingyp/wechatmusic)
++ [微信小程序云开发-wechatmusic地址](https://github.com/flingyp/wechatmusic)
++ [webchat-music-koa](https://github.com/flingyp/webchat-music-koa)
 
 English | [简体中文](./README-zh.md)
 
