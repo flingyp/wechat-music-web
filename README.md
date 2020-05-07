@@ -1,5 +1,7 @@
 # vue-admin-template
 
+[微信小程序云开发-wechatmusic地址](https://github.com/flingyp/wechatmusic)
+
 English | [简体中文](./README-zh.md)
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
