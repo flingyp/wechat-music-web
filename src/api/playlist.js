@@ -8,3 +8,28 @@ export function fetchList(params){
         method: 'get'
     })
 }
+
+export function fetchById(params) {
+    return request({
+        params,
+        url: `${baseURL}/playlist/getById`,
+        methods: 'get'
+    })
+}
+
+
+export function update(params) {
+    return request({
+        params,
+        url: `${baseURL}/playlist/updatePlaylist`,
+        method: 'get',
+    })
+}
+
+export function del(params) {
+    return request({
+        params,
+        url: `${baseURL}/playlist/del`,
+        method: 'get'
+    })
+}
