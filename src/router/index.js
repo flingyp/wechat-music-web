@@ -77,8 +77,8 @@ export const constantRoutes = [
     component: Layout,
     children: [
       {
-        path: 'blog',
-        component: () => import('@/views/blog/blog'),
+        path: 'list',
+        component: () => import('@/views/blog/list'),
         meta: { title: '博客管理', icon: 'tree' }
       }
     ]
